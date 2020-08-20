@@ -258,7 +258,7 @@ ul li {
 .preorder-text-right {
     position: relative;
     text-align: right;
-    width: 50%;
+    width: 55%;
 }
 
 .preorder-title {
@@ -273,7 +273,7 @@ ul li {
 
 .preorder-subtitle {
     margin: 0;
-    font-size: 45px;
+    font-size: 42px;
     font-weight: 700;
     line-height: 77px;
     text-shadow: 0 0 1px transparent, 0 1px 2px rgba(0, 0, 0, .8);
@@ -311,5 +311,5 @@ ul li {
 .preorder-text-left {
     position: relative;
     text-align: left;
-    width: 50%;
+    width: 55%;
 }
